@@ -11,3 +11,10 @@ body {
     color:rgb(197, 60, 156);
 }
 
+img {
+    background-color: white;
+    padding: 10px;
+    max-width: 70%;
+    max-height: 70%;
+}
+
